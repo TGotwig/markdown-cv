@@ -1,91 +1,145 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Thomas Gotwig's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Thomas Gotwig
+
+Bioinformatics Master Student.
+
+Ginnheimer Landstrasse 167a
+<br>
+60431 Frankfurt am Main
+<br>
+☎️ Home: +49 69 6986 1016 📱 Mobile: +49 152 2487 4511
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://tgotwig.me"><i class="fas fa-home"></i> www.tgotwig.me</a>
+  |
+  <a href="tgotwig@gmail.com"><i class="fas fa-envelope"></i> tgotwig@gmail.com</a>
+  <br>
+  <a href="https://github.com/tgotwig"><i class="fab fa-github"></i> Github</a>
+  |
+  <a href="https://www.linkedin.com/in/tgotwig"><i class="fab fa-linkedin"></i> LinkedIn</a>
+  |
+  <a href="https://stackoverflow.com/users/6244047/thomas-gotwig"><i class="fab fa-stack-overflow"></i> Stackoverflow</a>
+  |
+  <a href="https://dev.to/tgotwig"><i class="fab fa-dev"></i> Dev.to</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Bioinformatics at the Goethe-University Frankfurt.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Full-Stack-Development, DevOps.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`01.10.2020 - now`
+**Bioinformatics**, Frankfurt am Main
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master of Science
 
-- Sizar
+`01.10.2019 - 30.09.2020`
+**High-Integrity-Systems**, Frankfurt am Main
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master of Science (uncompleted)
 
-- Fellow
+`01.09.2013 - 25.10.2018`
+**Bioinformatics**, Giessen
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+- Bachelor of Science
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`01.05.2020 – 15.07.2020`
+**Medical Informatics Group**, Part-time job, Frankfurt am Main
 
-- Warden
-- Minted coins
+- Further development of an medical-register-system along with:
+  - Java 8, Maven, JSF, PrimeFaces, Docker, PostgreSQL.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`01.07.2018 – 28.06.2019`
+**Arago GmbH**, Full-time job, Frankfurt am Main
 
+- Further development of an Elixir-based expert system engine (AI-System).
+- Establishment of automated cluster deployments via Kubernetes under AWS.
+- Development of engine-specific performance tests under AWS with Python and Java.
+- Further development of an ontology in turtle format for JanusGraph.
+- Further development of an existing React Front-End.
 
+`01.10.2017 – 29.06.2018`
+**Philipps University**, Internship, Marburg
 
-<!-- ### Footer
+- Programming a system for analyzing gene neighborhoods via interactive web visualizations in Angular, D3, Node.js and Elasticsearch.
 
-Last updated: May 2013 -->
+`01.12.2016 – 29.09.2017`
+**Justus Liebig University**, Part-time job, Giessen
 
+- Implementation of various highly specific web widgets in HTML5 and JavaScript for the visualization of bacterial genome information.
+- Implementation of interactive standard diagrams using open-source JavaScript libraries.
+- Implementation of a D3.js-based synteny plot.
 
+## skills
+
+### Programming Languages
+
+Elixir, Java, JavaScript, Python, R, Rust, 🌟 Typescript.
+
+CSS, HTML, LaTeX, XML, YAML, SASS.
+
+awk, bash, fish.
+
+### Databases
+
+Elasticsearch, JanusGraph, MongoDB, 🌟 SQL.
+
+### Web Technologies
+
+Flexbox, CSS-Grid, Responsive Design (Mobile First), Web Components.
+
+### Frameworks
+
+🌟 Angular, D3, Phoenix, React, Spring, Vue.
+
+### Testing Frameworks
+
+Jasmine, JUnit, Protractor, PyTest.
+
+### Build Tools
+
+Cargo, Distillery, Make, Maven, NPM, Jenkins, Pipenv.
+
+### Cloud Computing
+
+Ansible, 🌟 AWS (CloudFormation & EKS), Digitalocean, 🌟 Firebase.
+
+### Virtualization
+
+Docker, Kubernetes, Vagrant.
+
+### CI / CD
+
+🌟 Github-Actions, Jenkins
+
+### Versioning
+
+Bitbucket, Git, Gitea, 🌟 Github, Gitlab.
+
+### Publishing
+
+Brew, Chocolatey, NPM, Snapcraft.
+
+### Spoken Languages
+
+German: C2, English: B2
+
+## Personal
+
+Birth date: 04.07.1991
+
+Hobbys: Walking, Coding, Collecting Series & Movies
+
+<br><br>
+Last updated: 31.10.2020
