@@ -54,6 +54,9 @@ Full-Stack-Development, DevOps.
 
 ## Occupation
 
+`15.11.2020 – ongoing`
+**Holos Supply GmbH**, Full-time job, Weiterstadt
+
 `01.05.2020 – 15.07.2020`
 **Medical Informatics Group**, Part-time job, Frankfurt am Main
 
@@ -142,4 +145,4 @@ Birth date: 04.07.1991
 Hobbys: Walking, Coding, Collecting Series & Movies
 
 <br><br>
-Last updated: 31.10.2020
+Last updated: 15.11.2020
