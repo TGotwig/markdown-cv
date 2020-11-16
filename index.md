@@ -11,7 +11,7 @@ Ginnheimer Landstrasse 167a
 <br>
 60431 Frankfurt am Main
 <br>
-☎️ Home: +49 69 6986 1016 📱 Mobile: +49 152 2487 4511
+📱 Mobile: +49 152 2487 4511
 
 <div id="webaddress">
   <a href="https://tgotwig.me"><i class="fas fa-home"></i> www.tgotwig.me</a>
